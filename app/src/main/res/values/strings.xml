@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextInput</string>
+    <string name="user_name">姓名</string>
+    <string name="user_pass_word">密码</string>
+    <string name="show">展示</string>
+</resources>
